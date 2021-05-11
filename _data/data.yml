@@ -7,21 +7,21 @@ sidebar:
   education: False # NO MODIFICAR
 
   # Profile information
-  name: My Full Name # Nombre completo
-  tagline: React Native Mobile Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
+  name: Fernando Israel González Madrigal # Nombre completo
+  tagline: Web Backend Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
   avatar: profile.png # Colocar una imagen con tu foto de 100x100 pixels dentro de /assets/images
 
   # Actualiza tus datos de contacto
-  email: name@brightcoders.com
+  email: fisrael.gonzalez00@gmail.com
   phone:
   website: # No agregar http://
-  linkedin: brightcoders
-  github: brightcoders
+  linkedin: Fernando Israel González Madrigal
+  github: n0b0dy-su
   gitlab:
   bitbucket:
-  twitter: '@BrightCoders'
+  twitter: '@sudo__su__'
   stack-overflow: # Number/Username, e.g. 123456/alandoe
-  codewars:
+  codewars: n0b0dy-su
   goodreads: # Number-Username, e.g. 123456-alandoe
 
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
@@ -32,18 +32,12 @@ sidebar:
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
-    - idiom: German
-      level: Colloquial
-
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
     - item: Communication
       link: # dejar en blanco
 
     - item: Team Work
-      link: # dejar en blanco
-
-    - item: Time Management
       link: # dejar en blanco
 
 # Registra aquí un resumen de tu perfil
@@ -54,63 +48,31 @@ career-profile:
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
-  - degree: Applied Scientist full-time at AWS
-    university: Germany
-    time: 2020 Oct - current
+  - degree: Ruby on Rails Web Developer Internship
+    university: BrightCoders Academy
+    time: 2020 Nov - Current
     details: |
 
-  - degree: PhD in Computer vision and Machine learning
-    university: Heidelberg University
-    time: 2015 - 2020
+  - degree: Software Engineer
+    university: Universidad de colima
+    time: 2017 Ago - current
     details: |
-      Unsupervised deep learning for automatic behavior analysis
-
-        - Unsupervised learning
-        - Representaion learning
-        - Automatic Behavior Analysis
-
-  - degree: Internship (Master Thesis)
-    university: Tobii
-    time: 2014 - 2015
-    details: |
-      Master thesis topic Hand gesture classification by Deep learning using infrared camera 
-
-        - Deep learning
-        - Hand Gesture
-
-  - degree: Bachelor Degree
-    university: Politecnico di Torino (Torino, Italy)
-    time: 2009 - 2012
-    details: |
-      Master degree in Computer Engineering
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Backend Developer
+    time: 2021 - Present
+    company: Instituto de Transformación Digital en las Organizaciones Educativas
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
+      The main activities are develop API's and modules for web aplications mainly with the next technologies 
+        - PHP
+        - MySQL
 
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+  - role: Backend Developer
+    time: 2019 - 2020
+    company: Universidad de Colima
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
+      I collaborated with the design and development of a web form system, as a deveolper mainly worked with PHP and MYSQL also implementing SimpleSAMLPHP.
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
@@ -123,22 +85,28 @@ skills:
 
   toolset:
     - name: Python
-      level: 20%
-
-    - name: PyTorch
       level: 40%
 
-    - name: Tensorflow
+    - name: Ruby
+      level: 40%
+
+    - name: Shell Scripting
+      level: 40%
+
+    - name: JS
       level: 60%
 
-    - name: Caffe
-      level: 80%
+    - name: PHP
+      level: 60%
 
-    - name: Matlab
-      level: 100%
+    - name: Git
+      level: 60%
 
-    - name: C/C++
-      level: 40%
+    - name: NodeJS
+      level: 20%
+
+    - name: Linux
+      level: 60%
 
 # NO MODIFICAR
 footer: >
